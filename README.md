@@ -5,8 +5,8 @@ Let’s dig into **Vagrant** today!
 
 Also:
 
--This project is **100% optional**
--This project **can’t be done in Sandboxes** - it can be done only in your local computer.
+- This project is **100% optional**
+- This project **can’t be done in Sandboxes** - it can be done only in your local computer.
 ## Resources 
 **Read or watch:**
 
@@ -22,7 +22,4 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - What is Ubuntu
 - What does “Ubuntu” mean
 - How to use VMs with Vagrant
-- What does the command ~~~~
-uname
-~~~ 
-do
+- What does the command `uname` do
